@@ -5,7 +5,9 @@
        <!--
        <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
        -->
-        <link href="src.css" rel="stylesheet">
+        <link href="/src.css" rel="stylesheet">
+        
+
     </head>
    <body class="bg-purple-200 ">
 
