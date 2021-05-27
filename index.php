@@ -2,9 +2,9 @@
 
     <head>
         <title>Whatever i'm just trying !!</title>
-       <!--
+       
        <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
-       -->
+
         <link href="/tailwind.css" rel="stylesheet">
 
 
